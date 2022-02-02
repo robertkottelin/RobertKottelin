@@ -1,10 +1,10 @@
 ### Hi there, I'm Robert 👋
 ### Currently deploying to the mainnet...
 
-🔭 Blockchain, Web3, Biotechnology
-🌱 Learning Solidity, Rust, Web3.js
-👯 I’m looking to collaborate on interesting projects
-🥅 2022 Goal: create an impactuful Web3 application
+### 🔭 Blockchain, Web3, Biotechnology
+### 🌱 Learning Solidity, Rust, Web3.js
+### 👯 I’m looking to collaborate on interesting projects
+### 🥅 2022 Goal: work in an amazing team and create an impactuful Web3 application/project
 
 
 ### Connect with me:
