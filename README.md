@@ -16,19 +16,19 @@ LinkedInLinkedIn: https://www.linkedin.com/in/robert-kottelin/
 Mail: robert.kottelin@gmail.com
 
 ### 🗨️ Languages:
-Python
-Solidity
-Visual Basic
-Javascript & Web3.js (learning)
-Rust (learning)
+- Python
+- Solidity
+- Visual Basic
+- Javascript & Web3.js (learning)
+- Rust (learning)
 
 ### 🛠️ Tools:
-React.js
-Web3.js
-Tensorflow
-Cargo
-Visual Studio Code
-Sublime Text
+- React.js
+- Web3.js
+- Tensorflow
+- Cargo
+- Node
+- Visual Studio Code
 
 ### 👨‍💻 Highlighted Projects:
 - Artificial intelligence (AI) (deep neural network) to classify PCR genotyping data
