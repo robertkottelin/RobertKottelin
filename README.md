@@ -37,4 +37,4 @@ Mail: robert.kottelin@gmail.com
 - Built a replica of Uniswap with **Solidity** and **Web3.js** to instantly swap ERC-20 tokens on the Ethereum blockchain
 - Built a simple decentralized social network where users can post and tip other posts in the feed, using **Solidity** and **Web3.js**
 - Built an asynchronous elastic temperature system monitor with **Rust** 
-- Built a toy blockchain in **Rust** for fun, will be the foundation to a medtech project
+- Built a toy blockchain in **Rust**, will be the foundation to a medtech project
