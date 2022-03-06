@@ -32,6 +32,7 @@ robert.kottelin@gmail.com
 ### 🗨️ **Languages**:
 - Python
 - Solidity
+- Javascript
 - Visual Basic
 - Javascript & Web3.js (learning)
 - Rust (learning)
