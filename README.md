@@ -18,8 +18,7 @@
 ## ⏳ Currently Working On:
 - Blockchain solution to store patient data (each patient owns his or hers personal medical history data)
 
-### ![image](https://user-images.githubusercontent.com/74188272/156918548-7ea4611e-cdfc-434d-b568-def38c1b3506.png) 
-![image](https://user-images.githubusercontent.com/74188272/156918536-0ebc8d0a-7141-4977-9495-96452d00037a.png) ![image](https://user-images.githubusercontent.com/74188272/156918516-3a28863c-7720-42d1-84a8-f8118ee58ab5.png) Connect with me:
+### 🤝 Connect with me:
 ![image](https://user-images.githubusercontent.com/74188272/156918548-7ea4611e-cdfc-434d-b568-def38c1b3506.png)
 https://twitter.com/robertkottelin
 
