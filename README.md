@@ -42,6 +42,7 @@ robert.kottelin@gmail.com
 - Ganache
 - Truffle
 - Infura
+- MetaMask
 - Tensorflow
 - Cargo
 - Node
