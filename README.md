@@ -2,10 +2,13 @@
 ### Currently deploying to the mainnet...
 
 ### 🔭 Decentralization, Blockchain, Web3, Biotechnology
-### 🗨️ Languages: Python, Solidity, Visual Basic
+### 🗨️ Languages: Solidity, Python, Visual Basic
 ### 🌱 Learning: Rust, Javascript & Web3.js
 ### 👯 I’m looking to collaborate on interesting projects
 ### 🥅 2022 Goal: work in an amazing team and create an impactuful Web3 application/project
+
+## ⏳ **Currently Working On**:
+- Blockchain solution to store patient data (each patient owns his or hers personal medical history data)
 
 ### 👨‍💻 **Highlighted Projects**:
 - Artificial intelligence (AI) (deep neural network) to classify PCR genotyping data - **Python**
@@ -15,9 +18,6 @@
 - Built a decentralized social network where users can post and tip other posts in the feed, using **Solidity** and **Web3.js**
 - Built an asynchronous elastic temperature monitor system with **Rust** 
 - Built a toy blockchain in **Rust**, will be the foundation to a medtech project
-
-## ⏳ **Currently Working On**:
-- Blockchain solution to store patient data (each patient owns his or hers personal medical history data)
 
 ### 🤝 **Connect with me**:
 ![image](https://user-images.githubusercontent.com/74188272/156918548-7ea4611e-cdfc-434d-b568-def38c1b3506.png)
@@ -39,10 +39,12 @@ robert.kottelin@gmail.com
 ### 🛠️ **Tools**:
 - React.js
 - Web3.js
+- Ganache
+- Truffle
+- Infura
 - Tensorflow
 - Cargo
 - Node
 - Visual Studio Code
 - Visual Code
-
-
+- Etc.
