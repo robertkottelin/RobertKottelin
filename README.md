@@ -20,14 +20,12 @@
 
 ### Connect with me:
 
-![image](https://user-images.githubusercontent.com/74188272/156918340-2baf3f4a-f455-4638-88c8-18f59515e6af.png)
-TwitterTwitter: https://twitter.com/robertkottelin
+![image](https://twitter.com/robertkottelin)
 
-![image](https://user-images.githubusercontent.com/74188272/156918354-65b3d04d-6ba1-4fd2-ac0d-a4108e4e8f26.png)
-LinkedInLinkedIn: https://www.linkedin.com/in/robert-kottelin/
+![image](https://www.linkedin.com/in/robert-kottelin/)
 
-![image](https://user-images.githubusercontent.com/74188272/156918360-b7f917e7-c217-4a06-a90d-f279a592685e.png)
-Mail: robert.kottelin@gmail.com
+![image](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSHwsLDxklwVpbGgLMVqGtXbqxtxNlQzKWFdNmdgGdQlQHBpBKmqpDhdcwwZgdBcNVdTrCXv)
+robert.kottelin@gmail.com
 
 ### 🗨️ Languages:
 - Python
