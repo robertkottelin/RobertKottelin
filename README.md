@@ -44,6 +44,7 @@ robert.kottelin@gmail.com
 - Truffle
 - Infura
 - MetaMask
+- OpenZeppelin
 - Tensorflow
 - Cargo
 - Node
