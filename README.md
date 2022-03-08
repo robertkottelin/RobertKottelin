@@ -3,12 +3,12 @@
 
 ### 🔭 Decentralization, Blockchain, Web3, Biotechnology
 ### 🗨️ Languages: Solidity, Python, Visual Basic
-### 🌱 Learning: Rust, Javascript & Web3.js
-### 👯 I’m looking to collaborate on interesting projects
+### 🌱 Learning: Rust & Javascript
+### 👯 Looking to collaborate on interesting projects
 ### 🥅 2022 Goal: work in an amazing team and create an impactuful Web3 application/project
 
 ## ⏳ **Currently Working On**:
-- Blockchain solution to store patient data (each patient owns his or hers personal medical history data)
+- Solution to store patient data on the blockchain (each patient owns his or hers personal medical history data)
 
 ### 👨‍💻 **Highlighted Projects**:
 - Artificial intelligence (AI) (deep neural network) to classify PCR genotyping data - **Python**
