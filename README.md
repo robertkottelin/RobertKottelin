@@ -2,8 +2,8 @@
 ### Currently deploying to the mainnet...
 
 ### 🔭 Decentralization, Blockchain, Web3, Biotechnology
-### 🗨️ Languages: Solidity, Python, Visual Basic
-### 🌱 Learning: Rust & Javascript
+### 🗨️ Languages: Solidity, JavaScrit, Python, Visual Basic
+### 🌱 Learning: Rust
 ### 👯 Looking to collaborate on interesting projects
 ### 🥅 2022 Goal: work in an amazing team and create an impactuful Web3 application/project
 
