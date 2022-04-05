@@ -42,6 +42,7 @@ robert.kottelin@gmail.com
 - Web3.js
 - Ganache
 - Truffle
+- Hardhat
 - Infura
 - MetaMask
 - OpenZeppelin
