@@ -7,6 +7,8 @@
 ### 👯 Looking to collaborate on interesting projects
 ### 🥅 2022 Goal: work in an amazing team and create an impactuful Web3 application/project
 
+
+
 ### 👨‍💻 **Highlighted Web3 Projects**:
 - Built an Ethereum Token from scratch in **Solidity** and deployed it to the Mainnet
 - Built a replica from scratch of Uniswap with **Solidity** and **Web3.js** to instantly swap ERC-20 tokens on the Ethereum blockchain
@@ -14,6 +16,7 @@
 ![image](https://user-images.githubusercontent.com/74188272/169360520-38ba978b-95e0-49c9-8b76-792e7b6fa741.png)
 - Built a simple NFT marketplace on the ETH testnet, where you can generate, buy, sell and store NFTs
 - Built a 2D crypto game where you run and jump over obstacles and collect NFTs that can be directly stored on OpenSea, running on the Polygon testnet
+
 
 ### 👨‍💻 **Other Highlighted Projects**:
 - Collaboratively built an asynchronous elastic temperature monitor system with **Rust** that increases in sensitivity when temperature fluctuates
