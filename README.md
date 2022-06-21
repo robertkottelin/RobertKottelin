@@ -6,11 +6,14 @@ Blockchain & Web3 developer
 
 Originally from the biotechnology field with a focus on artificial intelligence, data flow and quality control software, mainly through C based languages, python and visual basic. Since 2019 I've been freelancing in blockchain and web3 development, using rust, solidity and javascript/react to build NFT marketplaces, DAOs, swapping services like UniSwap, social media dapps, blockchain-based games and much more.
 
-*   🌍  I'm based in Uppsala, Sweden
-*   ✉️  You can contact me at [robert.kottelin@gmail.com](mailto:robert.kottelin@gmail.com)
-*   🚀  I'm currently working on [a fun and simple blogspot where users can upvote posts with a small amount of eth.](http://robertkottelin.github.io/BrainDump/)
-*   🧠  I'm learning Rust, Moonriver
-*   🤝  I'm open to collaborating on interesting projects or ideas### Skills<p align="left">
+*   🌍  I'm based in Uppsala, Sweden
+*   ✉️  You can contact me at [robert.kottelin@gmail.com](mailto:robert.kottelin@gmail.com)
+*   🚀  I'm currently working on [a fun and simple blogspot where users can upvote posts with a small amount of eth.](http://robertkottelin.github.io/BrainDump/)
+*   🧠  I'm learning Rust, Moonriver
+*   🤝  I'm open to collaborating on interesting projects or ideas
+
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
@@ -41,25 +44,24 @@ Originally from the biotechnology field with a focus on artificial intelligence,
                                 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
                     </p>
                     
+
                   ### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/Kobert5319" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/18689394/robert-kottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/robertkottelin"><img src="https://github-readme-stats.vercel.app/api?username=robertkottelin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="robertkottelin's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/robertkottelin/Braindump" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Braindump&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/robertkottelin/Eth_Swap" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Eth_Swap&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/robertkottelin/Ethereum-Medical-Records" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Ethereum-Medical-Records&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/robertkottelin/Rust_Blockchain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Rust_Blockchain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>### Support Me<a
-                  href="https://www.buymeacoffee.com/robertkottelin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                  <p align="left"> <a href="https://discord.com/users/Kobert5319" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18689394/robert-kottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/robertkottelin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/robertkottelin"><img src="https://github-readme-stats.vercel.app/api?username=robertkottelin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="robertkottelin's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/robertkottelin/Braindump" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Braindump&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/robertkottelin/Eth_Swap" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Eth_Swap&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/robertkottelin/Ethereum-Medical-Records" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Ethereum-Medical-Records&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/robertkottelin/Rust_Blockchain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=robertkottelin&repo=Rust_Blockchain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/robertkottelin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
