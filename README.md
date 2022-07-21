@@ -4,7 +4,7 @@ Hi 👋 My name is Robert Kottelin
 Blockchain & Web3 developer
 ---------------------------
 
-Originally from the biotechnology field with a focus on artificial intelligence, data flow and quality control software, mainly through C based languages, python and visual basic. Since 2019 I've been freelancing in blockchain and web3 development, using rust, solidity and javascript/react to build NFT marketplaces, DAOs, swapping services like UniSwap, social media dapps, blockchain-based games and much more.
+Originally from the biotechnology field with a focus on artificial intelligence, data flow and quality control software, mainly through rust, python and visual basic. Since 2019 I've been freelancing in blockchain and web3 development, using rust, solidity and javascript/react to build NFT marketplaces, DAOs, swapping services like UniSwap, social media dapps, blockchain-based games and much more.
 
 *   🌍  I'm based in Uppsala, Sweden
 *   ✉️  You can contact me at [robert.kottelin@gmail.com](mailto:robert.kottelin@gmail.com)
