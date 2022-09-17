@@ -1,7 +1,7 @@
 Hi 👋 My name is Robert Kottelin
 ================================
 
-Freelancer 
+
 ---------------------------
 
 Originally from the biotechnology field with a focus on artificial intelligence, laboratory data flow (and machine interfaces) and quality control software, mainly through rust, python and visual basic. Since 2020 I've been freelancing in blockchain and web3 development, using rust, solidity and javascript/react to build NFT marketplaces, DAOs, swapping services like UniSwap, social media dapps, blockchain-based games and much more.
