@@ -2,7 +2,7 @@ Hi! 👋
 
 **Interests**: 
 - Blockchain
-- Decentralization
+- Decentralization & Web3
 - AI
 - Biotechnology
 
