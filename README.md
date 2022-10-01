@@ -1,7 +1,17 @@
-Hi 👋 
+Hi! 👋 
 
-Interests: Blockchain, Decentralization, AI, Biotechnology
+Interests: 
+- Blockchain
+- Decentralization
+- AI
+- Biotechnology
 
-Languages: Rust (still learning), Solidity, Javascript (& React), Python, Visual Basic
+Languages: 
+- Rust (still learning)
+- Solidity
+- Javascript (& React)
+- Python
+- Visual Basic
+- SQL
 
-Contact me at robert.kottelin@gmail.com
+Contact me at robert.kottelin@gmail.com 
