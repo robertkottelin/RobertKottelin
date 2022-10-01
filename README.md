@@ -1,12 +1,12 @@
-Hi! 👋 
+**Hi! 👋 **
 
-Interests: 
+**Interests**: 
 - Blockchain
 - Decentralization
 - AI
 - Biotechnology
 
-Languages: 
+**Languages**: 
 - Rust (still learning)
 - Solidity
 - Javascript (& React)
@@ -14,4 +14,4 @@ Languages:
 - Visual Basic
 - SQL
 
-Contact me at robert.kottelin@gmail.com 
+**Contact me at robert.kottelin@gmail.com **
