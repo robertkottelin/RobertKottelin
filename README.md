@@ -14,4 +14,4 @@ Hi! 👋
 - Visual Basic
 - SQL
 
-**Contact me at robert.kottelin@gmail.com **
+Contact me at robert.kottelin@gmail.com
