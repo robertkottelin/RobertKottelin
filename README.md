@@ -1,9 +1,3 @@
-Hi! 👋
-
-**Interests**: 
-- Biotechnology, data science
-- Simulations, AI, Decentralization
-
 **Languages**: 
 - Python
 - SQL
