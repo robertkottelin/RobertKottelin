@@ -1,12 +1,5 @@
 **Languages**: 
-- Python
-- SQL
-- Rust
-- C#
-- Javascript (& React)
-- Solidity
-- Visual Basic
-- LIMS basic
+Python, SQL, Visual Basic, LIMS Basic, C++, C#, Rust, Java, Javascript, Typescript
 
 Work with me now!
 
