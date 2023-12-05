@@ -4,5 +4,3 @@ Python, SQL, Visual Basic, LIMS Basic, C++, C#, Rust, Java, Javascript, Typescri
 Work with me now!
 
 Contact me at robert.kottelin@gmail.com
-
-Portfolio page: https://robertkottelin.com/
